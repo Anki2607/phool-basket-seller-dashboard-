@@ -6,7 +6,7 @@
     "sdkVersion": "49.0.0",
     "platforms": ["android", "ios"],
     "android": {
-      "package": "com.aanki2607.phoolbasketsellerdashboard",
+      "package": "com.phoolbasket.sellerdashboard",
       "versionCode": 1
     },
     "extra": {
